@@ -9,5 +9,5 @@ notifications:
   email:
     recipients:
       - youcef.messao@gmail.com
-    on_success: always
-    on_failure: never
+    on_success: never
+    on_failure: always
