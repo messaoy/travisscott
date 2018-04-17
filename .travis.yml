@@ -9,6 +9,6 @@ env:
 notifications:
   email:
     recipients:
-      - youcef.messao@gmail.com
+      - antoine.csk@gmail.com
     on_success: never
     on_failure: always
