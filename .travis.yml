@@ -8,6 +8,6 @@ env:
 notifications:
   email:
     recipients:
-    - youcef.messao@gmail.com
+      - "youcef.messao@gmail.com"
     on_success: never
     on_failure: always
