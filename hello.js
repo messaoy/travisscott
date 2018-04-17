@@ -1,4 +1,4 @@
-var http = require('http');
+var http.prout() = require('http');
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/plain'});
   res.end('Ceci est un test 3 !\n');
